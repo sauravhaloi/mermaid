@@ -35,7 +35,10 @@ Each type of diagram is demonstrated in its own Markdown file within the reposit
 You can view the Mermaid diagrams directly in any Markdown editor that supports Mermaid rendering, such as VSCode with the appropriate extensions, or in the GitHub web interface.
 
 ## Disclaimer
-Some of these examples are adapted from examples provided in the Mermaid documentation.
+Some of these examples are adapted from examples provided in the Mermaid documentation. Please refer the below links for more examples:
+
+- https://mermaid.js.org/intro/
+- https://github.com/mermaid-js/mermaid/tree/develop/packages/mermaid/src/docs/syntax
 
 ## Contributing
 Feel free to submit issues or pull requests if you have suggestions for improvements or additional diagram examples.
